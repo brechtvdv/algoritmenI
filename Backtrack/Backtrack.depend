@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406468213 source:/home/brecht/School/Algo I/algoritmenI/Backtrack/Backtrack/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"BackTrack.h"
+
+1406468354 /home/brecht/School/Algo I/algoritmenI/Backtrack/Backtrack/BackTrack.h
+
