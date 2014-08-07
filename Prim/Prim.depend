@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1407405030 source:/home/brecht/School/Algo I/algoritmenI/Prim/main.cpp
+	"ggraaf.h"
+	"prim.h"
+	<fstream>
+	<iostream>
+
+1407245998 /home/brecht/School/Algo I/algoritmenI/Prim/ggraaf.h
+	<vector>
+	"graaf.h"
+
+1393537353 /home/brecht/School/Algo I/algoritmenI/Prim/graaf.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+	<sstream>
+	<stdexcept>
+
+1407412605 /home/brecht/School/Algo I/algoritmenI/Prim/prim.h
+	<queue>
+	<vector>
+
